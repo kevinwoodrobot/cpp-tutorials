@@ -1,0 +1,26 @@
+# Ignore Files 
+thumbnail.png
+timestamps.txt
+README_KW.md 
+demo.cpp
+demo.exe 
+
+# Ignore File Types 
+*.mkv 
+*.gslides
+*.pdf 
+*.pptx 
+*.png
+
+# Ignore Environments 
+opencvEnv
+pyenv36 
+
+# Ignore Folders 
+.vscode
+archive 
+shorts 
+shorts-sub
+shorts-sub-arch  
+thumbnail
+__-custom-operators 
